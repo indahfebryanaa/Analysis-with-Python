@@ -1,2 +1,2 @@
 # Analysis-with-Python
-Lung Cancer Data Analysis using Python
+Starting from Data Exploration to get to know about the dataset, Data Preparation to clean the data, search for null values, change the data type if needed, then followed by Exploratory Data Analysis (EDA) which used to analyze, investigate, and summarize the dataset with data visualization methods. With the cleaned data and better understanding about what the data represents, it's time to do Modeling Data. In here, Logistic Regression, Random Forest Classifier, and Gradient Boosting is choosen for the algorithm. From the three algorithms, it will be tested for which model is the best one using confusion matrix.
